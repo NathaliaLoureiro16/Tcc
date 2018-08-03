@@ -1,0 +1,1450 @@
+{
+    "receitas": [
+        {
+            "titulo": "Bolo de banana",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "4 unidades de banana",
+                "1 xícara (chá) de Óleo",
+                "2 xícaras (chá) de farinha de rosca",
+                "2 xícara (chá) de açúcar",
+                "1 colher (sopa) de fermento em pó",
+                "3 unidades de ovo",
+                "1 colher (café) de sal",
+                "canela em pó a gosto"
+            ],
+            "ingredientesBase": [
+                "banana",
+                "farinha de rosca",
+                "ovo",
+                "óleo",
+                "açúcar",
+                "fermento em pó"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Bata no liquidificador as bananas, o óleo e os ovos, até obter um creme uniforme.",
+                "2 - à parte, misture numa tigela, os ingredientes secos.",
+                "3 - Junte o creme e misture até formar uma massa homogênea.",
+                "4 - Unte com margarina e enfarinhe assadeira média com furo no meio.",
+                "5 - Asse em forno médio até que espetando um palito este saia limpo.",
+                "6 - Polvilhe com açúcar e canela."
+            ]
+        },
+        {
+            "titulo": "Bolo de chocolate",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "3 xicaras de farinha de trigo",
+                "2 xícaras (chá) de açúcar",
+                "1 xícara (chá) de chocolate em pó",
+                "1/2 xícara (chá) de óleo",
+                "3 ovos",
+                "1 colher (sopa) de  fermento em pó",
+                "1 xícara (chá) de água quente",
+                "",
+                "Ingredientes Cobertura",
+                "",
+                "3 colheres (sopa) de margarina",
+                "4 colheres (sopa) de chocolate em pó",
+                "4 colheres (sopa) de açúcar",
+                "2 xicaras (chá) de leite"
+            ],
+            "ingredientesBase": [
+                "chocolate em pó",
+                "farinha de trigo",
+                "ovo",
+                "açúcar",
+                "óleo",
+                "fermento em pó",
+                "margarina",
+                "leite"
+            ],
+            "modoPreparo": [
+                "Modo de Preparo",
+                "",
+                "1 - Em uma tigela misturar o açúcar e o chocolate em pó",
+                "2 - Em seguida, separe a gema da clara",
+                "3 - Misture as gemas separadas e o óleo",
+                "4 - Bata as claras até chegar no ponto de neve e reserve",
+                "5 - Aos poucos acrescentar a água e a farinha de trigo",
+                "6 - Em seguida juntar o  fermento em pó",
+                "7 - E por fim juntar as claras em neve",
+                "8 - Despejar a mistura em uma forma untada e colocar para assar por aproximadamente 40 minutos",
+                "",
+                "Modo de Preparo Cobertura",
+                "",
+                "1 - Misturar tudo numa panela, em fogo baixo",
+                "2 - Não parar de mexer até ficar cremoso",
+                "3 - Depois despejar em cima do bolo ainda quente"
+            ]
+        },
+        {
+            "titulo": "Bolo de milho / Fubá",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "2 ovos",
+                "2 xícaras (chá) de leite",
+                "2 xícaras (chá) de açúcar",
+                "2 xícaras (chá) de fubá/farinha de milho",
+                "2 xícaras (chá) de farinha de trigo",
+                "1 xícara (chá) de óleo",
+                "2 colheres (chá) de fermento em pó"
+            ],
+            "ingredientesBase": [
+                "ovo",
+                "leite",
+                "açúcar",
+                "farinha de milho",
+                "farinha de trigo",
+                "óleo",
+                " fermento em pó"
+
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Bata no liquidificador em velocidade alta, os ovos, o óleo, o leite e o açúcar.",
+                "2 - Quando estiver homogêneo, vá acrescentando a farinha de trigo o fubá / farinha de milho.",
+                "3 - A massa vai começar a ficar grossa, então ajude mexendo com uma colher.",
+                "4 - Quando estiver tudo bem misturado acrescente o fermento e misture bem.",
+                "5 - Unte uma assadeira grande de buraco no meio com óleo e açúcar.",
+                "6 - Leve ao forno médio até dourar por cerca de 40 minutos."
+            ]
+        },
+        {
+            "titulo": "Bolo de cenoura",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "1/2 xícara (chá) de óleo",
+                "3 cenouras médias raladas",
+                "4 ovos",
+                "2 xícaras (chá) de açúcar",
+                "2 xícaras e 1/2 (chá) de farinha de trigo",
+                "1 colher (sopa) de fermento em pó",
+                "",
+                "Ingredientes Cobertura",
+                "",
+                "1 colher (sopa) de manteiga",
+                "3 colheres (sopa) de chocolate em pó",
+                "1 xícara (chá) de açúcar",
+                "1 xícara (chá) de leite"
+            ],
+            "ingredientesBase": [
+                "óleo",
+                "cenoura",
+                "ovo",
+                "açúcar",
+                "farinha de trigo",
+                "fermento em pó"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Em um liquidificador, adicione a cenoura, os ovos e o óleo, depois misture.",
+                "2 -  Acrescente o açúcar e bata novamente por 5 minutos.",
+                "3 - Em uma tigela ou na batedeira, adicione a farinha de trigo e depois misture novamente.",
+                "4 - Acrescente o fermento e misture lentamente com uma colher.",
+                "5 -  Asse em um forno preaquecido a 180° C por aproximadamente 40 minutos.",
+                "",
+                "Modo de Preparo Cobertura",
+                "",
+                "1 - Despeje em uma tigela a manteiga, o chocolate em pó, o açúcar e o leite, depois misture.",
+                "2 - Leve a mistura ao fogo e continue misturando até obter uma consistência cremosa.",
+                "3 - Despeje a calda por cima do bolo."
+            ]
+        },
+        {
+            "titulo": "Bolo de Laranja",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "2 laranjas descascadas",
+                "1/2 xícara (chá) de óleo",
+                "2 ovos inteiros",
+                "2 xícaras (chá) de farinha de trigo peneirada",
+                "2 xícaras (chá) de açúcar peneirado",
+                "1 colher (sopa) de fermento em pó",
+                "",
+                "Ingredientes Cobertura",
+                "",
+                "1 xícara (chá) de suco de laranja",
+                "2 xícaras de (chá) açúcar"
+            ],
+            "ingredientesBase": [
+                "laranja",
+                "óleo",
+                "ovo",
+                "farinha de trigo",
+                "açúcar",
+                "fermento em pó"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Pré-aqueça o forno a 180° Celsius.",
+                "2 - Unte uma forma de furo no meio com manteiga e farinha de trigo. Reserve. ",
+                "3 - Retire a casca da laranja, inclusive a parte branca dela.",
+                "4 - Corte a fruta em 4 partes e retire a parte branca do miolo.",
+                "5 - Leve as laranjas ao liquidificador.",
+                "6 - Coloque 1/2 xícara (chá) de óleo e  2 ovos inteiros ",
+                "7 - Bata no liquidificador, até obter um creme amarelinho e homogêneo.",
+                "8 - Em uma tigela, peneire as 2 xícaras de chá de farinha de trigo e  2 xícaras de chá de açúcar e uma colher de sopa de fermento em pó e misture.",
+                "9 - Transfira a massa para a forma untada de furo no meio e leve para assar em forno pré-aquecido a 180º por 45 minutos.",
+                "10 - Após 40 minutos faça o teste do palito no bolo, espete-o no centro do bolo, se sair ‘sequinho’ está pronto.",
+                "",
+                "Modo de preparo cobertura",
+                "",
+                "1 - Leve 1 xícara de suco mais 2 xícaras de açúcar ao fogo. Espere ferver e deixe apurar por  2 minutos. Reserve.",
+                "2 - Regue a calda de laranja quente, sobre o Bolo ainda morno.  ",
+                "3 - Cubra com açúcar de confeiteiro polvilhado."
+            ]
+        },
+        {
+            "titulo": "Bolo formigueiro",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "2 ovos",
+                "2 xícaras (chá) de Farinha de trigo",
+                "1 xícara e 1/2 (chá) de açúcar",
+                "2 colheres (sopa) de manteiga",
+                "1 xícara (chá) de leite",
+                "1 colher (sopa) de fermento em pó",
+                "1/2 pacotinho de 100 g de chocolate granulado",
+                "",
+                "Ingredientes Cobertura",
+                "",
+                "1 lata de leite condensado",
+                "5 colheres (sopa) de chocolate em pó ou achocolatado",
+                "1/2 colher (sopa) de manteiga",
+                "1/2 pacotinho de 100 g de chocolate granulado"
+            ],
+            "ingredientesBase": [
+                "ovo",
+                "farinha de trigo",
+                "açúcar",
+                "manteiga",
+                "leite",
+                "fermento em pó",
+                "chocolate granulado"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Coloque os ovos, a manteiga e o açúcar no liquidificador, bata por uns 3 minutos.",
+                "2 - Adicione o leite, e a farinha aos poucos, bata até que misture toda a farinha.",
+                "3 - Transfira a massa para uma vasilha, misture o chocolate granulado e por último o fermento.",
+                "4 - Despeje a massa em forma com buraco central untada com manteiga e enfarinhada. ",
+                "5 - Leve para assar em forno pré-aquecido por aproximadamente 40 minutos ou até que o bolo esteja completamente assado.",
+                "",
+                "Modo de preparo cobertura",
+                "",
+                "1 - Misture todos os ingredientes em uma panela deixe engrossar mais não muito em média 5 minutos.",
+                "2 - Jogue a cobertura sobre o bolo e jogue o chocolate granulado por cima."
+            ]
+        },
+        {
+            "titulo": "Brownie do Jp",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "150 g de Chocolate amargo",
+                "1/2 xícara (chá) de manteiga sem sal",
+                "2 xícaras (chá) de açúcar",
+                "4 ovos",
+                " 1 xícara (chá) rasa de farinha de trigo",
+                "1 pitada de sal",
+                "1/2 xícara (chá) de Nozes Picados",
+                "3 colheres de (sopa) de Cacau em pó"
+            ],
+            "ingredientesBase": [
+                "chocolate amargo",
+                "manteiga",
+                "ovo",
+                "açúcar",
+                "farinha de trigo",
+                "sal",
+                "cacau em pó"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Bater os ovos com o açúcar.",
+                "2 - Derreter o chocolate com a manteiga em banho-maria e despejar sobre os ovos batidos e misturar bem",
+                "3 - Juntar os ingredientes secos.",
+                "4 - Acrescentar as nozes.",
+                "5 - Untar a assadeira.",
+                "6 - Despejar a massa na assadeira.",
+                "7 - Levar a assadeira ao forno (180ºC) e assar de 15 a 25 minutos."
+            ]
+        },
+        {
+            "titulo": "Bolo de caneca simples",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "1 ovo",
+                "3 colheres (sopa) de açúcar",
+                "4 colheres (sopa) de farinha de trigo",
+                "1 colher (sopa) de óleo",
+                "1 colher (café) de fermento em pó",
+                "4 colheres (sopa) de leite"
+            ],
+            "ingredientesBase": [
+                "óleo",
+                "farinha de trigo",
+                "ovo",
+                "açúcar",
+                "fermento em pó",
+                "leite"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Coloque todos os ingrediente em uma caneca de aproximadamente 300ml ou mais.",
+                "2 - Mexa até a massa ficar homogênea, coloque no micro-ondas por aproximadamente 3 minutos."
+            ]
+        },
+        {
+            "titulo": "Torta salgada de caneca",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "1 ovo",
+                "4 colheres (sopa) de leite",
+                "3 colheres (sopa) de óleo",
+                "1 colher (sopa) de queijo ralado",
+                "1/2 colher (café) de sal",
+                "4 colheres (sopa) de farinha de trigo",
+                "1 colher (café) de fermento em pó",
+                "",
+                "Ingredientes Recheio",
+                "",
+                "Pedaços de queijo de sua preferência",
+                "Tomate picadinho",
+                "Cebola",
+                "Alho",
+                "Orégano",
+                "Frango desfiado ou carne moída"
+            ],
+            "ingredientesBase": [
+                "ovo",
+                "leite",
+                "óleo",
+                "queijo ralado",
+                "sal",
+                "farinha de trigo",
+                "fermento em pó",
+                "cebola",
+                "alho",
+                "frango",
+                "carne moída"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Coloque todos os ingrediente em uma caneca de aproximadamente 300ml ou mais.",
+                "2 - Mexa até a massa ficar homogênea, coloque no micro-ondas por aproximadamente 3 minutos."
+            ]
+        },
+        {
+            "titulo": "Baguete com carne moída",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "300g de carne moída",
+                "3 gomos de linguiça sem pele",
+                "1 xícara (chá) de queijo ralado ",
+                "1 sachê de caldo de carne",
+                "Pimenta a gosto",
+                "Salsinha picadinha a gosto",
+                "Sal a gosto",
+                "1 baguete"
+            ],
+            "ingredientesBase": [
+                "carne moída",
+                "linguiça",
+                "queijo ralado",
+                "caldo de carne",
+                "baguete"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 -Em uma tigela, coloque 300 g de carne moída, 3 gomos de linguiça sem pele, 1 xícara (chá) de queijo ralado, 1 sachê de caldo de carne, pimenta, salsinha picadinha e sal a gosto.",
+                "2 - Misture bem e reserve.",
+                "3 - Com uma faca de serra corte as pontas de uma baguete.",
+                "4 -  Sobre uma superfície, coloque a baguete em pé.",
+                "5 - Em seguida, corte em 3 partes no sentido da largura.",
+                "6 - Com a ajuda do cabo de uma colher de pau, empurre o miolo para as laterais da baguete.",
+                "7 - Coloque uma porção da mistura de carne com queijo dentro de cada pedaço de baguete apertando bem.",
+                "8 -  Em seguida, enrole cada pedaço de baguete em um papel filme e leve ao freezer até firmar (+/- 3 horas).",
+                "9 - Repita o mesmo procedimento com o restante da baguete cortada.",
+                "10 - Retire os pedaços de baguetes do freezer.",
+                "11 -  Com uma faca de serra, em corte fatias",
+                "12 - Em seguida, grelhe dos dois lados em uma frigideira untada com azeite em fogo médio, com cuidado para não queimar o pão.",
+                "13 - Sirva em seguida."
+            ]
+        },
+        {
+            "titulo": "Bolo Inglês",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "2 ovos",
+                "1 colher (sopa) de fermento em pó",
+                "1 colher (chá) de baunilha a gosto",
+                "Pitada de sal",
+                "Raspas de laranja a gosto",
+                "1/2 xícara (chá) de suco de laranja natural",
+                "1/2 xícara (chá) de iogurte natural",
+                "Frutas cristalizadas e nozes a gosto",
+                "1/2 xícara (chá) de margarina",
+                "2 xícaras (chá) de farinha de trigo",
+                "1 e 1/4 xícara (chá) de açúcar",
+                "Açúcar de confeiteiro para polvilhar"
+            ],
+            "ingredientesBase": [
+                "ovo",
+                "fermento em pó",
+                "sal",
+                "suco de laranja",
+                "iogurte natural",
+                "margarina",
+                "farinha de trigo",
+                "açúcar",
+                "Frutas cristalizadas",
+                "nozes"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Derreta a margarina por 30 segundos no micro-ondas.",
+                "2 - Em uma tigela coloque: a margarina, os ovos, o iogurte, o suco de laranja, o açúcar, raspas de laranja, a farinha (caso prefira pode peneirar), baunilha e o sal.",
+                "3 - Misture todos os ingredientes, bata até formar uma massa homogênea. ",
+                "4 - Adicione o fermento em pó",
+                "5 - Unte uma assadeira com margarina e farinha.",
+                "6 - Despeje a massa na forma.",
+                "7 - Em um recipiente coloque as frutas cristalizadas, as nozes e um pouco de farinha de trigo e misture.",
+                "8 - Adicione as frutas na massa e leve ao forno por 40 minutos.",
+                "9 - Depois de pronto, polvilhe o açúcar de confeiteiro por cima."
+            ]
+        },
+        {
+            "titulo": "Empanadas Uruguaias",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "300g de carne moída (previamente refogada)",
+                "2 colheres (sopa) de azeitona picadas",
+                "2 colheres (sopa) de uva passa preta/branca",
+                "2 ovos cozidos picados",
+                "2 colheres (sopa) de tempero verde picado",
+                "Sal a gosto",
+                "Pimenta a gosto",
+                "1 cebola média picada",
+                "",
+                "Ingredientes Recheio",
+                "",
+                "300g de carne moída (previamente refogada)",
+                "2 colheres (sopa) de azeitona picadas",
+                "2 colheres (sopa) de uva passa preta/branca",
+                "2 ovos cozidos picados",
+                "2 colheres (sopa) de tempero verde picado",
+                "Sal a gosto",
+                "Pimenta a gosto",
+                "1 cebola média picada"
+            ],
+            "ingredientesBase": [
+                "carne moída",
+                "azeitona",
+                "uva passa",
+                "ovo",
+                "tempero verde",
+                "sal",
+                "cebola"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Em um recipiente peneire a farinha de trigo, coloque a pitada de sal e a manteiga derretida no micro-ondas.",
+                "2 - Misturar com as mãos, adicionar o ovo, o leite e a cachaça até formar uma massa homogênea. ",
+                "3 - Sovar a massa, abrir com o auxílio de um rolo de modo que fique bem fina e corte em círculos.",
+                "4 -  Para montar as empanadas coloque uma colher do recheio no meio de cada disco de empanada. A quantidade de recheio vai variar de acordo com o tamanho das empanadas.",
+                "5 - Para fechar as empanadas, dobre o disco e cole as bordas pressionando a massa com os seus dedos. Pode pincelar o interior das bordas com clara de ovo, que irá agir como cola para fechar as empanadas.",
+                "6 - Pincelar as empanadas com gema de ovo e assar em forno pré aquecido 180 graus por aproximadamente 25 a 30 minutos, o tempo de forno pode variar de acordo com o tamanho das empanadas e o forno, as empanadas estarão prontas assim que ficarem douradas.",
+                "",
+                "Modo de preparo do recheio",
+                "1 - Na frigideira coloque óleo e manteiga, adicione a carne moída previamente refogada, a cebola picada, as azeitonas, a uva passa, o tempero verde e o ovo cozido. ",
+                "2 - Fazer um refogado e deixar esfriar para poder rechear as empanadas."
+            ]
+        },
+        {
+            "titulo": "Quindim do Anonymus",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "125 g de coco ralado fresco ou úmido.",
+                "250 g de açúcar refinado",
+                "30 g de manteiga derretida",
+                "9 gemas",
+                "Glucose de milho "
+            ],
+            "ingredientesBase": [
+                "coco",
+                "manteiga",
+                "ovo",
+                "glucose de milho",
+                "açúcar"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Misture com as mãos, o coco com o açúcar e a manteiga derretida e reserve por uma hora.",
+                "2 -Untar as forminhas com glucose.",
+                "3 - Na mistura reservada adicione as gemas e mais 1 ovo inteiro, misturando com uma espátula.",
+                "4 - Colocar a mistura nas forminhas e deixar descansar por 30 minutos.",
+                "5 - Colocar as forminhas dentro de uma forma maior com água (banho Maria) e levar ao forno (180 graus) até dourar.",
+                "6 - Espere esfriar e desenformar."
+            ]
+        },
+        {
+            "titulo": "Mingau de Aveia",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "50 g de aveia em flocos",
+                "300 ml de leite",
+                "8 g de açúcar"
+            ],
+            "ingredientesBase": [
+                "aveia",
+                "leite",
+                "açúcar"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Aquecer o leite, o açúcar e os aveia em flocos em uma panela.",
+                "2 - Deixe cozinhar em fogo baixo mexendo sempre. ",
+                "3 - Sirva em tigelinha e, se quiser, pode colocar uma pitada de canela em pó, frutas cristalizadas ou outro complemento."
+            ]
+        },
+        {
+            "titulo": "Pão de queijo (sem fermento)",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "1 caixinha de creme de leite (200 ml)",
+                "1 copo requeijão",
+                "1 copo de polvilho doce"
+            ],
+            "ingredientesBase": [
+                "creme de leite",
+                "requeijão",
+                "polvilho doce"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Amasse até soltar das mãos (caso precise um pouquinho a mais de polvilho, coloque aos poucos até que chegue ao ponto de enrolar).",
+                "2 - Faça bolinhas, coloque em forma untada e asse em forno pré-aquecido bem quente.",
+                "3 - Se achar necessário, acrescente sal. Asse até ficarem douradinhos levemente."
+            ]
+        },
+        {
+            "titulo": "Mousse de limão",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "1 lata de leite condensado",
+                "1 lata de creme de leite",
+                "1/2 xícara de limão espremido"
+            ],
+            "ingredientesBase": [
+                "leite condensado",
+                "creme de leite",
+                "suco de limão"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Coloque o creme de leite e o leite condensado no liquidificador, bata um pouco e acrescente o suco de limão aos poucos.",
+                 "2 - Quando a massa ficar consistente, coloque em um recipiente de vidro e leva à geladeira"
+            ]
+        },
+        {
+            "titulo": "Biscoito de banana com aveia",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "2 bananas bem maduras",
+                "1 xícara de aveia"
+            ],
+            "ingredientesBase": [
+                "banana",
+                "aveia"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Amasse as bananas e acrescente a aveia, misturando bem",
+                "2 - Depois, faça bolinhas no formato de pequenos biscoitos e coloque para assar em uma forma untada por 15 minutos em forno pré-aquecido a 175 graus."
+            ]
+        },
+        {
+            "titulo": "Brigadeiro de Colher",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "1 lata de leite condensado",
+                "1 colher (sopa) manteiga ",
+                "2 colheres (sopa) chocolate em pó"
+            ],
+            "ingredientesBase": [
+                "leite condensado",
+                "manteiga",
+                "chocolate em pó"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Misture o leite condensado, a manteiga, o creme de leite e o chocolate em pó em uma panela. ",
+                "2 - Leve a panela ao fogo. Mexa bem até levantar um pouco de fervura e abaixe o fogo.",
+                "3 - Misture o chocolate meio amargo derretido no micro-ondas.",
+                "4 -  Espere esfriar, decore com confeitos coloridos ou chocolate granulado e está pronto."
+            ]
+        },
+        {
+            "titulo": "Arroz de forno",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "4 xícaras (chá) de arroz cozido ",
+                "100 gramas de queijo mussarela ralada",
+                "1 cenoura ralada ",
+                "2 colheres (sopa) de salsinha picada ",
+                "2 unidades de ovo ",
+                "1 xícara (chá) de leite",
+                "1/2 copo de requeijão ",
+                "1 xícara (chá) de queijo parmesão ralado",
+                "Sal a gosto",
+                "Pimenta a gosto"
+            ],
+            "ingredientesBase": [
+                "arroz",
+                "queijo mussarela",
+                "cenoura",
+                "salsinha",
+                "ovo",
+                "leite",
+                "requeijão",
+                "queijo parmesão"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Em uma tigela, misture o arroz, a mussarela, o presunto, a cenoura e a salsa.",
+                "2 - Coloque em um refratário untado com margarina.",
+                "3 - No liquidificador, bata os ovos, o leite, o requeijão, o queijo ralado, o sal e a pimenta.",
+                "4 - Despeje sobre o arroz e asse no forno, preaquecido, a 200 °C durante 30 minutos ou até dourar."
+            ]
+        },
+        {
+            "titulo": "Massa caseira especial",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "300 gramas de massa caseira",
+                "2 unidades de abobrinha",
+                " 2 colheres (sopa) de manteiga",
+                "1 caixinha de creme de leite",
+                "1 cebola média picada ",
+                "1 envelope de caldo de legumes",
+                "2 colheres (sopa) de salsinha picada",
+                "2 colheres (sopa) de queijo parmesão ralado ",
+                "Sal a gosto",
+                "Pimenta a gosto"
+            ],
+            "ingredientesBase": [
+                "massa caseira",
+                "abobrinha",
+                "manteiga",
+                "leite",
+                "cebola",
+                "caldo de legumes",
+                "salsinha",
+                "queijo parmesão"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Cozinhe a massa al dente e reserve.",
+                "2 - Rale as abobrinhas na parte grossa do ralador. Reserve.",
+                "3 - Em uma panela, aqueça a manteiga, doure a cebola, junte o caldo de legumes, o creme de leite, a abobrinha, o sal e a pimenta.",
+                "4 -  Misture levemente e deixe no fogo brando (160 ºC) durante 3 minutos ou até aquecer bem.",
+                "5 - Desligue o fogo e acrescente a massa.",
+                "6 - Salpique a salsinha, a cebolinha, o queijo parmesão e sirva em seguida."
+            ]
+        },
+        {
+            "titulo": "Espaguete à bolonhesa",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "600 gramas de macarrão espaguete",
+                "Molho de tomate ",
+                "250g de carne moída",
+                "1/2 cebola picada",
+                "1 dente de alho picado",
+                "1 pitada de salsinha",
+                "1 colher (chá) de azeite de oliva",
+                "Pimenta a gosto",
+                "Queijo parmesão ralado a gosto"
+            ],
+            "ingredientesBase": [
+                "espaguete",
+                "molho de tomate",
+                "carne moída",
+                "cebola",
+                "alho",
+                "salsinha",
+                "oliva"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Cozinhe a massa conforme as instruções da embalagem até ficar al dente.",
+                "2 - Escorra e reserve.",
+                "3 - Em uma panela, aqueça o azeite e faça dourar o alho",
+                "4 - Acrescente a cebola picada, refogue.",
+                "5 - Acrescente a carne ao refogado.",
+                "6 -  Tempere com sal, pimenta e salsinha. Espere secar um pouco.",
+                "7 - Adicionar o molho à carne moída.",
+                "8 - Desligue o fogo e acrescente a massa.",
+                "9 - Polvilhe o queijo e sirva."
+            ]
+        },
+        {
+            "titulo": "Macarrão Aromático",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "3 colheres (sopa) de azeite de oliva",
+                "1 cebola pequena picada",
+                "100 gramas de Bacon picado em tiras",
+                "1/2 xícara (chá) de salsinha picada",
+                "1/2 xícara (chá) de manjericão picado ",
+                "1 envelope de caldo de legumes ",
+                "400 gramas de massa caseira",
+                "Sal a gosto",
+                "Pimenta a gosto",
+                "Queijo ralado a gosto"
+            ],
+            "ingredientesBase": [
+                "oliva",
+                "cebola",
+                "bacon",
+                "salsinha",
+                "manjericão",
+                "caldo de legumes",
+                "massa caseira"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Em uma frigideira, aqueça o azeite, doure a cebola e o bacon.",
+                "2 - Junte as ervas e o caldo de legumes.",
+                "3 - Tempere com sal e pimenta e deixe cozinhar por 4 minutos no fogo brando (160 ºC).",
+                "4 - Cozinhe o macarrão em água com sal.",
+                "5 - Escorra, sirva com o molho e com o queijo ralado."
+            ]
+        },
+        {
+            "titulo": "Suco de melancia com maracujá",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "1/4 de melancia, sem as sementes",
+                "Polpa de 2 maracujás pequenos"
+            ],
+            "ingredientesBase": [
+                "melancia",
+                "maracujá"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Bata todos os ingredientes no liquidificador",
+                "2 - Sirva em seguida"
+            ]
+        },
+        {
+            "titulo": "Sanduíche de atum com legumes",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "1 1/2 xícara (chá) de alface",
+                "3/4 xícara (chá) de tomate", 
+                "1/2 xícara (chá) de pimentão",
+                "1/2 xícara (chá) de cenoura ralada",
+                "1/4 xícara (chá) de cebola",
+                "2 colheres (sopa) de salsinha picada",
+                "2 latas de atum",
+                "2 colheres (sopa) de maionese",
+                "baguete"
+            ],
+            "ingredientesBase": [
+                "baguete",
+                "alface",
+                "tomate",
+                "pimentão",
+                "cenoura",
+                "cebola",
+                "salsinha",
+                "atum",
+                "maionese"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Em uma tigela grande, coloque a alface, o tomate, o pimentão, a cenoura, a cebola e a salsinha.",
+                "2 - Revolva tudo delicadamente.",            
+                "3 - Em uma tigela pequena, coloque o atum e a maionese e misture sem quebrar muito os pedaços de atum." ,             
+                "4 - Combine com as verduras e mexa com cuidado.",
+                "5 - Abra o pão, formando bolsas, e distribua o recheio."
+            
+            ]
+        },
+        {
+            "titulo": "Purê de batata com azeite e cebolinha",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "1 kg de batata (4 unidades)",
+                "10 talos de cebolinha",
+                "3 dentes de alho",
+                "1/3 de xícara (chá) de azeite",
+                "Sal e pimenta a gosto"
+            ],
+            "ingredientesBase": [
+                "batata",
+                "cebolinha",
+                "alho",
+                "óleo"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Lave, descasque e corte as batatas em pedaços médios. Transfira para uma panela, cubra com água e misture 1 colher (chá) de sal.",
+                "2 - Leve para cozinhar em fogo alto. Assim que começar a ferver, abaixe o fogo para médio e deixe cozinhar por 20 minutos, ou até ficarem macias – espete com um garfo para verificar.",
+                "3 - Assim que estiverem cozidas, reserve 1 xícara (chá) da água do cozimento e passe as batatas pelo escorredor. Deixe por uns minutinhos enquanto prepara as cebolinhas.",
+                "4 - Lave, seque e corte a parte verde das cebolinhas em fatias finas. Reserve.",
+                "5 - Sobre a mesma panela (nem precisa lavar), passe as batatas e os dentes de alho ainda quentes pelo espremedor. Regue aos poucos com a água do cozimento, mexendo a cada adição, até o purê ficar macio.",
+                "6 - Leve uma frigideira com o azeite ao fogo médio. Quando aquecer, junte a cebolinha fatiada e mexa por 1 minuto para perfumar.",
+                "7 -  Adicione o azeite com as cebolinhas ao purê de batatas e misture bem. Tempere com sal e pimenta a gosto e sirva a seguir."
+            ]
+        },
+        {
+            "titulo": "Estrogonofe de carne",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "500 gramas de carne cortada em tirinhas",
+                " 1/4 xícara (chá) de manteiga",
+                " 1 unidade de cebola picada ",
+                "1 colher (sobremesa) de mostarda ",
+                "1 colher (sopa) de ketchup ",
+                "1 pitada de pimenta",
+                " 1 unidade de tomate sem pele picado",
+                " 1 xícara (chá) de champignon ",
+                "1 lata de creme de leite ",
+                "Sal a gosto"
+            ],
+            "ingredientesBase": [
+                "carne",
+                "manteiga",
+                "cebola",
+                "mostarda",
+                "ketchup",
+                "pimenta",
+                "tomate",
+                "champignon",
+                "creme de leite"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Derreta a manteiga e refogue a cebola até ficar transparente.",
+                "2 - Junte a carne e tempere com o sal.",
+                "3 - Mexa até a carne dourar de todos os lados.",
+                "4 - Acrescente a mostarda, o ketchup, a pimenta e o tomate picado.",
+                "5 - Cozinhe até formar um molho espesso.",
+                "6 - Se necessário, adicione água quente aos poucos.",
+                "7 - Quando o molho estiver encorpado e a carne macia, adicione os cogumelos e o creme de leite.",
+                "8 - Mexa por 1 minuto e retire do fogo.",
+                "9 - Sirva imediatamente, acompanhado de arroz e batata palha.",
+                "Dica: Se juntar água ao refogar a carne, frite-a até todo o líquido evaporar."
+            ]
+        },
+        {
+            "titulo": "Lasanha aos quatro queijos",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "500 gramas de massa de lasanha ",
+                " 250 gramas de queijo mussarela em fatias ",
+                "3 colheres (sopa) de manteiga",
+                "2 colheres (sopa) de farinha de trigo",
+                "3 xícaras (chá) de leite",
+                "100 gramas de queijo provolone ralado",
+                "50 gramas de queijo parmesão ralado",
+                " 1 lata de creme de leite"
+            ],
+            "ingredientesBase": [
+                "massa para lasanha",
+                "queijo mussarela",
+                "manteiga",
+                "farinha de trigo",
+                "leite",
+                "queijo provolone",
+                "queijo parmesão",
+                "creme de leite"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Para fazer o molho, em uma panela, doure a farinha com a manteiga. Espere amornar.",
+                "2 - No liquidificador, bata a mistura de farinha e manteiga, o leite, o provolone, o parmesão e o creme de leite.",
+                "3 - Transfira para uma panela e leve ao fogo brando, a 160 ºC, mexendo sempre até engrossar.",
+                "4 - Em um refratário, alterne camadas de massa, molho e mussarela.",
+                "5 - Termine com molho, polvilhe queijo parmesão e leve ao forno alto, preaquecido, a 200 ºC, até derreter o queijo e dourar."
+            ]
+        },
+        {
+            "titulo": "Batata recheada com frango",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "4 unidades de batata grandes ",
+                "1 colher (sopa) de manteiga ",
+                "1 dente de alho picado",
+                " 200 gramas de peito de frango bem picado",
+                " 1 copo de requeijão cremoso ",
+                "2 colheres (sopa) de manjericão picado ",
+                "Sal a gosto"
+            ],
+            "ingredientesBase": [
+                "batata",
+                "manteiga",
+                "alho",
+                "peito de frango",
+                "requeijão",
+                "manjericão"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Lave as batatas, faça um corte no sentido do comprimento e fure a casca em vários pontos.",
+                "2 - Coloque-as num refratário e leve ao micro-ondas em potência máxima por 10 minutos, até ficarem macias.",
+                "3 - Em outro refratário, aqueça a manteiga no micro-ondas por 30 segundos.",
+                "4 - Junte o alho e o frango e leve ao forno por 6 minutos.",
+                "5 - Misture na metade do tempo.",
+                "6 - Tempere com sal e misture o requeijão.",
+                "7 - Junte ao frango e adicione o manjericão picado.",
+                "8 - Misture e recheie as batatas."
+            ]
+        },
+        {
+            "titulo": "Couve-flor gratinada com molho branco e queijo",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "1 unidade de couve-flor média",
+                " 1 colher (sopa) de manteiga",
+                " 1 colher (sopa) de farinha de trigo",
+                "500 leite quente",
+                "3 colheres (sopa) de queijo parmesão ralado ",
+                "1 caixa de creme de leite ",
+                "100 gramas de queijo mussarela ralada ",
+                "Sal a gosto",
+                "Pimenta a gosto"
+            ],
+            "ingredientesBase": [
+                "couve-flor",
+                "manteiga",
+                "farinha de trigo",
+                "leite",
+                "queijo parmesão",
+                "creme de leite",
+                "queijo mussarela"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Lave e corte a couve-flor em buquês.",
+                "2 -  Em uma panela, coloque água com um pouco de sal e deixe ferver.",
+                "3 - Junte a couve-flor e cozinhe por 2 minutos. Escorra e deixe esfriar.",
+                "4 - Em uma panela, derreta a manteiga, junte a farinha de trigo e mexa bem até formar um creme.",
+                "5 - Junte, aos poucos, o leite quente e, sem parar de mexer, cozinhe até engrossar. Tempere com o sal e a pimenta.",
+                "6 - Adicione o queijo ralado e o creme de leite. Misture bem e desligue o fogo.",
+               "7 - Deixe amornar e acomode a couve-flor em um refratário levemente untado com azeite. Por cima, espalhe o creme e cubra com a mussarela ralada.",
+                "8 - Leve ao forno, preaquecido, a 200 °C, e asse até dourar e o queijo derreter. Sirva em seguida"
+              ]
+            },
+            {
+            "titulo": "Ovos mexidos com Atum",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "3 ovos ",
+                "1 lata de atum",
+                "1 colher (sopa) de manteiga",
+                "Sal",
+                "Pimenta",
+                "Salsinha picada"
+            ],
+            "ingredientesBase": [
+                "ovo",
+                "atum",
+                "manteiga",
+                "sal",
+                "pimenta",
+                "salsinha"
+           
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 mexa bem os ovos em um prato fundo e adicione a salsinha picada, a pimenta e o sal, envolvendo tudo.",
+                "2 - Derreta a manteiga em uma frigideira, junte a cebola picada e deixe dourar.",
+                "3 - Acrescente o atum e envolva com a cebola durante alguns segundos.",
+                "4 - Adicione os ovos e vá mexendo até cozinharem.",
+                "5 - Retire da frigideira e sirva de imediato."
+                ]
+            },
+            {
+            "titulo": "Frango frito",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "Frango",
+                "Alho",
+                "Louro" ,
+                "Limão"
+            ],
+            "ingredientesBase": [
+                "frango",
+                "alho",
+                "louro",
+                "limão"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Depois de cortado, tempere o frango com sal, alho e limão e deixe por algum tempo.",
+                "2 - Em uma frigideira aqueça o óleo, e em fogo baixo frite o frango. Vire de vez enquanto para fritar bem."
+              ]
+            },
+            {
+            "titulo": "Pizza de liquidificador",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "1 xícara (chá) de leite",
+                "1 ovo",
+                "1 colher (chá) de sal",
+                "1 colher (chá) de açúcar",
+                "1 colher (sopa) de margarina",
+                "1 e 1/2 xícara (chá) de farinha de trigo",
+                "1 colher (sobremesa) de fermento em pó",
+                "1/2 lata de molho de tomate",
+                "",
+                "Ingredientes Recheio",
+                "",
+                "250 g de queijo mussarela ralada grossa",
+                "2 tomates fatiados",
+                "azeitona picada",
+                "orégano a gosto"
+            ],
+            "ingredientesBase": [
+                "leite",
+                "sal",
+                "tomate",
+                "açúcar",
+                "margarina",
+                "farinha de trigo",
+                "fermento em pó",
+                "molho de tomate",
+                "queijo mussarela",
+                "tomate"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - No liquidificador bata o leite, o ovo, o sal, o açúcar, a margarina, a farinha de trigo e o fermento em pó até que tudo esteja incorporado.",
+                "2 - Despeje a massa em uma assadeira para pizza untada com margarina e leve ao forno preaquecido por 20 minutos.",
+                "3 - Retire do forno e despeje o molho de tomate.",
+                "4 -  Cubra a massa com mussarela ralada, tomate e orégano a gosto.",
+                "5 - Leve novamente ao forno até derreter a mussarela."
+              ]
+            },
+            {
+            "titulo": "Geleia de laranja",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "12 laranjas",
+                "1 Kg de açúcar",
+                "1 copo de água"
+            ],
+            "ingredientesBase": [
+                "laranja",
+                "açúcar"
+                
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Tire a casca de 3 laranjas e corte em tirinhas finas",
+                "2 - Faça o suco de 6 laranjas e das outras 6 laranjas aproveite a polpa sem tirar o suco",
+                "3 - Coloque as cascas da laranja em uma panela, dê uma fervura e jogue esta água fora",
+                "4 - Depois coloque na panela as tirinhas, o suco, a polpa, o açúcar e a água e deixe ferver em fogo baixo até engrossar",
+                "5 - A geleia estará pronta quando levantar uma espuma e ficar com brilho"
+              ]
+            },
+            {
+            "titulo": "Paçoquinha de colher",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "2 latas de leite condensado",
+                "2 gemas",
+                "1 colher (sopa) de manteiga",
+                "1 xicara (chá) de amendoim torrado e moído"
+            ],
+            "ingredientesBase": [
+                "leite condensado",
+                "ovo",
+                "manteiga",
+                "amendoim"
+              
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Misture todos os ingredientes em uma panela e leve ao fogo, em temperatura média. ",
+                "2 - Mexa sempre até o ponto de fervura. ",
+                "3 - A partir daí, conte cinco minutos e desligue o fogo.",
+                "4 -  Distribua em copinhos individuais, espere esfriar e sirva com uma colher."
+              ]
+            },
+            {
+            "titulo": "Bolinho de maça e nozes",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "250 g de manteiga",
+                "250 g de açúcar",
+                "5 ovos",
+                "75 g de nozes picadas",
+                "1 colher (chá) de fermento em pó",
+                "1/2 colher (chá) de canela em pó",
+                "250 g de farinha de trigo",
+                "2 maçãs "
+            ],
+            "ingredientesBase": [
+                "manteiga",
+                "açúcar",
+                "ovo",
+                "nozes",
+                "fermento em pó",
+                "canela",
+                "farinha de trigo",
+                "maçã"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Na batedeira, bata a manteiga com o açúcar até obter um creme.",
+                "2 - Junte os ovos, um a um, sempre batendo. Acrescente as nozes, o fermento e a canela em pó.",
+                "3 - Tire da batedeira, junte a farinha peneirada e mexa delicadamente, agregando a farinha de baixo para cima.",
+                "4 -  Unte com manteiga e polvilhe com farinha pequenas formas individuais. ",
+                "5 - Corte as maçãs ao meio e depois em tiras finas.",
+                "6 -  Despeje a massa nas formas e depois disponha as tiras de maçã. Leve para assar em forno preaquecido a 180º C até ficar dourada."
+              ]
+            },
+            {
+            "titulo": "Cueca virada",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "3 xícaras de chá de farinha de trigo",
+                "6 colheres de sopa de açúcar",
+                "1/2 xícara de chá de leite",
+                "1 pitada de sal",
+                "1 ovo",
+                "1 colher (sopa) de margarina",
+                "1 colher (sopa) de vinagre ou cachaça",
+                "1 colher (sobremesa) de fermento em pó",
+                "Açúcar e canela misturados para polvilhar",
+                "Óleo para fritar"
+            ],
+            "ingredientesBase": [
+                "farinha de trigo",
+                "açúcar",
+                "leite",
+                "sal",
+                "ovo",
+                "margarina",
+                "cachaça",
+                "fermento em pó",
+                "canela",
+                "óleo"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Misturar os ingredientes até ficar uma massa que não grude nas mãos (Se necessário colocar um pouquinho mais de farinha de trigo)",
+                "2 - Abrir com rolo em superfície enfarinhada",
+                "3 - Cortar tiras no tamanho desejado",
+                "4 -  Fazer um corte no meio e passar uma ponta por dentro virando",
+                "5 - Fritar em óleo não muito quente",
+                "6 - Descansar sobre papel toalha",
+                "7 - Polvilhar açúcar e canela."
+              ]
+            },
+            {
+            "titulo": "Omelete rápido",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "2 ovos",
+                "1 pitada de sal",
+                "1 fatia de presunto",
+                "2 fatias de queijo mussarela",
+                "Tempero verde a gosto",
+                "Caldo de frango a gosto"
+            ],
+            "ingredientesBase": [
+                "ovo",
+                "sal",
+                "presunto",
+                "queijo mussarela",
+                "tempero verde",
+                "caldo de frango"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Bata os 2 ovos.",
+                "2 - Após ter batido bem, coloque-o na frigideira já untada com óleo, acrescente o sal, o presunto picado em quadradinhos e as duas fatias de queijo (não precisa picar o queijo).",
+                "3 - Coloque os temperos a gosto, espere ficar firme, e vire o omelete."
+              ]
+            },
+            {
+            "titulo": "Bolinho de arroz",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "2 xícaras (chá) de arroz cozido",
+                "1/2 xícara (chá) de queijo ralado",
+                "1/2 xícara (chá) de leite",
+                "2 colheres (sopa) de Tempero verde picado",
+                "1 colher (sopa) de fermento em pó",
+                "1/2 xícara (chá) de farinha de trigo",
+                "3 ovos",
+                "Óleo para fritar"
+            ],
+            "ingredientesBase": [
+                "arroz",
+                "queijo ralado",
+                "leite",
+                "tempero verde",
+                "fermento em pó",
+                "farinha de trigo",
+                "ovo",
+                "óleo"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Em um recipiente, misture todos os ingredientes até criar uma massa firme e encorpada",
+                "2 - Molde os bolinhos e frite-os no óleo quente, até que fiquem dourados",
+                "3 - Escorra sobre papel absorvente"
+              ]
+            },
+            {
+            "titulo": "Yakissoba",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "300 g de espaguete",
+                "1 cebola grande cortada em pedaços médios",
+                "1 colher (sopa) de óleo",
+                "1/2 maço pequeno de brócolis",
+                "1/2 maço pequeno de couve-flor",
+                "10 colheres (sopa) de molho shoyu",
+                 "400 g de carne cortada em tiras",
+                "100 g de champignon",
+                "1 cenoura cortada em rodelas",
+                "250 ml de água",
+                "1 colher (sopa) de amido de milho, dissolvido em 50 ml de água"
+            ],
+            "ingredientesBase": [
+                "espaguete",
+                "cebola",
+                "óleo",
+                "brócolis",
+                "couve-flor",
+                "molho shoyu",
+                "carne",
+                "champignon",
+                "cenoura",
+                "amido de milho"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Cozinhe o macarrão em ponto al dente e reserve.",
+                "2 - Em uma panela, adicione o azeite, a cebola, a carne e refogue bem.",
+                "3 - Adicione o molho shoyu e cozinhe por 3 minutos em fogo médio.",
+                "4 -  Acrescente mais água, aguarde levantar fervura e adicione o amido de milho.",
+                "5 - Mexa até engrossar, abaixe o fogo e adicione o champignon, a couve-flor, o brócolis e a cenoura.",
+                "6 - Cozinhe por 8 minutos e acrescente, por último, a acelga e o macarrão",
+                "7 - Misture bem, acerte o sal e tampe a panela por mais 1 minuto. Está pronto para servir!"
+              ]
+            },
+            {
+            "titulo": "Sanduíche de pepino",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "10 fatias de pão de forma sem casca",
+                "1 xícara (chá) de maionese",
+                "2 unidades de pepino ralado",
+                "1/2 colher (chá) de hortelã picada",
+                "2 colheres (sopa) de suco de limão",
+                "Sal e pimenta a gosto"
+            
+            ],
+            "ingredientesBase": [
+                "pão de forma",
+                "maionese",
+                "pepino",
+                "hortelã",
+                "suco de limão",
+                "Sal"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Corte as fatias de pão ao meio.",
+                "2 - Em uma tigela, misture a maionese com o pepino ralado, a hortelã e o suco de limão.",
+                "3 - Tempere com pimenta e sal.",         
+                "4 - Recheie as metades das fatias de pão com a mistura de pepino e monte os sanduíches."                
+               
+            ]
+            },
+            {
+            "titulo": "Torta de Sardinha",
+            "descricaoIngredientes": [
+                "Ingredientes",
+                "",
+                "2 colheres de sopa de azeite de oliva",
+                "1 cebola picada",
+                "2 dentes de alho picados",
+                "3 tomates picados",
+                "1/2 xícara de molho de tomate",
+                "2 latas de sardinha sem óleo",
+                "Sal",
+                "Pimenta",
+                "1/4 de maço de salsinha picada",
+                "3 pães franceses em cubos",
+                "1 xícara de requeijão cremoso",
+                "1 xícara de queijo mussarela ralado"
+            
+            ],
+            "ingredientesBase": [
+                "pão francês",
+                "sardinha",
+                "oliva",
+                "cebola",
+                "molho de tomate",
+                "Sal",
+                "salsinha",
+                "requeijão",
+                "queijo mussarela"
+            ],
+            "modoPreparo": [
+                "Modo de preparo",
+                "",
+                "1 - Aquecer uma panela, regar com azeite e refogar a cebola.",
+                "2 - Juntar o alho e o tomate picado e refogar por mais 2 minutos.",
+                "3 - Adicionar o molho de tomate e as sardinhas, temperar com sal e pimenta e deixar cozinhar por 3 minutos. Acrescentar a salsinha, retirar do fogo e reservar.",         
+                "4 - Dispor os pães em um refratário untado com manteiga, adicionar colheradas de requeijão cremoso, cobrir com metade do queijo mussarela, com o molho de sardinha e com o restante do queijo mussarela ralado.",
+                "5 - Levar ao forno preaquecido a 180 graus por, aproximadamente, 30 minutos ou até que o queijo esteja gratinado."                
+           
+              ]
+         },
+         {
+         "titulo": "Torta Cachorro-Quente na Travessa",
+         "descricaoIngredientes": [
+             "Ingredientes",
+             "",
+             "Azeite para refogar",
+             " 1 cebola cortada em cubinhos",
+             " 2 dentes de alho picados",          
+             " 2 tomates picados",         
+             " 1 xícara de molho de tomate",           
+             " Sal a gosto",   
+             "1 pacote de salsicha" ,               
+             " 1/2 maço de salsinha picada",           
+             " 3 ovos",           
+             " 6 colheres de sopa de óleo",           
+             " 1 1/2 xícara de leite",          
+             "1 caixinha de creme de leite",         
+             " 1 3/4 de xícara de farinha de trigo",         
+             "1 colher de sopa de fermento em pó",          
+             "1 1/2 xícara de queijo mussarela ralado"
+         
+         ],
+         "ingredientesBase": [
+             "óleo",
+             "cebola",
+             "alho",
+             "tomate",
+             "molho de tomate",
+             "sal",
+             "salsicha",
+             "salsinha",
+             "ovo",
+             "leite",
+             "creme de leite",
+             "farinha de trigo",
+             "fermento em pó",
+             "queijo mussarela"
+         ],
+         "modoPreparo": [
+             "Modo de preparo",
+             "",
+             "1 - Em uma frigideira quente, dispor o azeite e refogar a cebola e o alho.",
+             "2 - Juntar o tomate e o molho de tomate, o sal e deixar cozinhar por 15 minutos.",
+             "3 - Juntar a salsicha, cozinhar por mais 2 minutos e juntar a salsinha. Reservar.",         
+             "4 - No liquidificador bater os ovos, o óleo, leite, creme de leite, farinha de trigo, o sal e fermento em pó até obter uma mistura lisa.",
+             "5 - Dispor em uma forma untada e enfarinhada." ,
+             "6 - Dispor o queijo mussarela por cima." ,
+             "7 - Dispor o molho de cachorro quente.",
+             "8 - Levar ao forno preaquecido a 180 graus por 40 minutos."
+
+        
+           ]
+      }
+    ]
+}

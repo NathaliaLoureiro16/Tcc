@@ -1,0 +1,75 @@
+{
+  "ingredientes":[
+    {
+    "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "categoria": "Laticinios",
+    "ingredientes":["Manteiga","Ovo","Queijo parmesão","Queijo mussarela","Iogurte natural","Creme de leite","Leite condensado","Queijo provolone","Leite","Requeijão","Margarina", "Chocolate amargo","Chocolate granulado","queijo ralado"]
+  },
+  {
+   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "categoria": "Vegetais",
+    "ingredientes":["Cebola","Alho","Tomate","Batata","Cenoura","Pimentão","Manjericão","Salsinha","Brócolis","Pimenta","Abobrinha","Azeitona","Couve-flor","Champignon","Alface","Pepino"]
+  },
+  {
+    "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "categoria": "Frutas",
+    "ingredientes":["Maçã","Banana","Laranja","Limão","Maracujá","Melancia"]
+  },
+  {
+   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "categoria": "Grãos",
+    "ingredientes":["Farinha de trigo","Fermento em pó","Arroz","Coco","Farinha de milho","Amido de milho","Chocolate em pó","Cacau em pó","Uva passa","Nozes","Frutas cristalizadas", "Polvilho doce","Amendoim","farinha de rosca","Aveia"]
+  },
+  {
+   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "categoria": "Adoçantes",
+    "ingredientes":["Açúcar","Mel","Glucose de milho"]
+  },
+  {
+    "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "categoria": "Temperos",
+    "ingredientes":["Sal","Cebolinha","Canela","Oregáno","Baunilha","Louro","Caldo de carne","Caldo de legumes","Caldo de frango", "Tempero verde","Hortelã"]
+  },
+  {
+   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "categoria": "Pães",
+    "ingredientes":["baguete","Pão de forma","Pão francês"]
+  },
+  
+  {
+   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "categoria": "Carnes",
+    "ingredientes":["Bacon","Peito de frango","Salsicha","Carne moída","Linguiça","Presunto","Carne"]
+  },
+  {
+   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "categoria": "Frutos do mar",
+    "ingredientes":["Atum","Sardinha"]
+  },
+  {
+    "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "categoria": "Condimentos",
+    "ingredientes":["Mostarda","Ketchup","Maionese"]
+  },
+  {
+   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "categoria": "Óleo",
+    "ingredientes":["Óleo","Oliva"]
+  },
+  {
+   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "categoria": "Molhos",
+    "ingredientes":["Molho de tomate","Molho shoyu"]
+  },
+  {
+    "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "categoria": "Bebidas",
+    "ingredientes":["Suco de laranja","Suco de limão","Cachaça"]
+  },
+  {
+   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "categoria": "Massa",
+    "ingredientes":["Espaguete","Massa para lasanha","Massa caseira"]
+  }]
+  
+}
