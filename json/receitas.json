@@ -1,5 +1,4 @@
-{
-    "receitas": [
+ [
         {
             "titulo": "Bolo de banana",
             "descricaoIngredientes": [
@@ -1442,9 +1441,6 @@
              "6 - Dispor o queijo mussarela por cima." ,
              "7 - Dispor o molho de cachorro quente.",
              "8 - Levar ao forno preaquecido a 180 graus por 40 minutos."
-
-        
            ]
       }
     ]
-}
