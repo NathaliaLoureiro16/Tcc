@@ -16,11 +16,10 @@
         android:layout_height="wrap_content">
 
         <ImageView
-            android:id="@+id/imageView4"
+            android:id="@+id/imagemCategoria"
             android:layout_width="150dp"
             android:layout_height="40dp"
-            android:layout_weight="1"
-            cardview_parent:srcCompat="@drawable/laticinios" />
+            android:layout_weight="1" />
 
         <TextView
             android:id="@+id/item_text"

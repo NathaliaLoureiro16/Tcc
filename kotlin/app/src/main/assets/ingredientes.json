@@ -1,72 +1,72 @@
 [
     {
-    "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "imagemCategoria": "https://image.ibb.co/dhguvp/laticinios.png",
     "categoria": "Laticinios",
     "ingredientes":["Manteiga","Queijo parmesão","Queijo mussarela","Iogurte natural","Creme de leite","Leite condensado","Queijo provolone","Leite","Requeijão","Margarina", "Chocolate amargo","Chocolate granulado","Queijo ralado"]
   },
   {
-   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+   "imagemCategoria": "https://image.ibb.co/jC7pT9/vegetal.png",
     "categoria": "Vegetais",
     "ingredientes":["Cebola","Alho","Tomate","Batata","Cenoura","Pimentão","Manjericão","Salsinha","Brócolis","Pimenta","Abobrinha","Azeitona","Couve-flor","Champignon","Alface","Pepino"]
   },
   {
-    "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "imagemCategoria": "https://image.ibb.co/jZQnFp/fruta.png",
     "categoria": "Frutas",
     "ingredientes":["Maçã","Banana","Laranja","Limão","Maracujá","Melancia"]
   },
   {
-   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+   "imagemCategoria": "https://image.ibb.co/cO59T9/grao.png",
     "categoria": "Grãos",
     "ingredientes":["Farinha de trigo","Fermento em pó","Arroz","Coco","Farinha de milho","Amido de milho","Chocolate em pó","Cacau em pó","Uva passa","Nozes","Frutas cristalizadas", "Polvilho doce","Amendoim","farinha de rosca","Aveia"]
   },
   {
-   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+   "imagemCategoria": "https://image.ibb.co/bAYJMU/adocante.png",
     "categoria": "Adoçantes",
     "ingredientes":["Açúcar","Mel","Glucose de milho"]
   },
   {
-    "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "imagemCategoria": "https://image.ibb.co/jSmSFp/tempero.png",
     "categoria": "Temperos",
     "ingredientes":["Sal","Cebolinha","Canela","Oregáno","Baunilha","Louro","Caldo de carne","Caldo de legumes","Caldo de frango", "Tempero verde","Hortelã"]
   },
   {
-   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+   "imagemCategoria": "https://image.ibb.co/hNYk1U/pao.png",
     "categoria": "Pães",
     "ingredientes":["baguete","Pão de forma","Pão francês"]
   },
   
   {
-   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+   "imagemCategoria": "https://image.ibb.co/eGWio9/carne.png",
     "categoria": "Carnes",
     "ingredientes":["Bacon","Peito de frango","Salsicha","Carne moída","Linguiça","Presunto","Carne","Ovo"]
   },
   {
-   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+   "imagemCategoria": "https://image.ibb.co/bJab89/mar.png",
     "categoria": "Frutos do mar",
     "ingredientes":["Atum","Sardinha"]
   },
   {
-    "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "imagemCategoria": "https://image.ibb.co/idu3o9/condimento.png",
     "categoria": "Condimentos",
     "ingredientes":["Mostarda","Ketchup","Maionese"]
   },
   {
-   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+   "imagemCategoria": "https://image.ibb.co/ePJJMU/oleo.png",
     "categoria": "Óleo",
     "ingredientes":["Óleo","Oliva"]
   },
   {
-   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+   "imagemCategoria": "https://image.ibb.co/krnqkp/molho.png",
     "categoria": "Molhos",
     "ingredientes":["Molho de tomate","Molho shoyu"]
   },
   {
-    "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+    "imagemCategoria": "https://image.ibb.co/kY3JMU/bebida.png",
     "categoria": "Bebidas",
     "ingredientes":["Suco de laranja","Suco de limão","Cachaça"]
   },
   {
-   "imagemCategoria": "img://akjasldjjio-01i2-39alksdj",
+   "imagemCategoria": "https://image.ibb.co/bR4sgU/massa.png",
     "categoria": "Massa",
     "ingredientes":["Espaguete","Massa para lasanha","Massa caseira"]
   }]

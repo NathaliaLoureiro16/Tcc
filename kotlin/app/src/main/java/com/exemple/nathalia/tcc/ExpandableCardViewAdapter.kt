@@ -1,12 +1,10 @@
 package com.exemple.nathalia.tcc
 
-import android.graphics.drawable.Drawable
-import android.support.v4.content.ContextCompat
-import android.support.v7.content.res.AppCompatResources
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.cardview_parent.view.*
 
  class ExpandableCardViewAdapter(var items: MutableList<Item>)
@@ -24,7 +22,7 @@ import kotlinx.android.synthetic.main.cardview_parent.view.*
 
     inner class ItemHolder(v: View) : RecyclerView.ViewHolder(v) {
         var textView = v.item_text
-        var image = v.imageView4
+        var image = v.imagemCategoria
         val toggleImageView = v.item_toggle_button
     }
 
@@ -77,6 +75,8 @@ import kotlinx.android.synthetic.main.cardview_parent.view.*
             }
 
             it.textView.text = item.text
+            Picasso.get().load(R.item.).into(it.image)
+
             it.image
 
         }
