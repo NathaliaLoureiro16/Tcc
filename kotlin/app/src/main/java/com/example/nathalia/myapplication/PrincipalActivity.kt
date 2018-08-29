@@ -1,30 +1,38 @@
 package com.example.nathalia.myapplication
 
 import android.content.Intent
+import android.Manifest
+import android.app.Activity
+import android.graphics.Bitmap
+import android.provider.MediaStore
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.v7.widget.LinearLayoutManager
 import android.view.Menu
 import android.view.MenuItem
-import android.view.View
 import com.android.volley.Response
 import com.android.volley.toolbox.Volley
+import android.support.design.widget.Snackbar
+import android.view.View
 import com.google.gson.Gson
-import kotlinx.android.synthetic.main.activity_main.*
+import com.github.florent37.runtimepermission.kotlin.askPermission
+import kotlinx.android.synthetic.main.activity_principal.*
+import kotlinx.android.synthetic.main.content_principal.*
 import java.io.IOException
 
 
-class MainActivity : AppCompatActivity() {
+class PrincipalActivity : AppCompatActivity() {
 
     private var categorias: Array<MinhasCategoriasDeIngredientes>? = null
 
+    val REQUEST_IMAGE_CAPTURE = 1
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-
+        setContentView(R.layout.activity_principal)
+        setSupportActionBar(toolbar)
 
     }
-
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         menuInflater.inflate(R.menu.menu_main, menu)
         return true
@@ -36,9 +44,14 @@ class MainActivity : AppCompatActivity() {
                 buscarReceitas()
                 return true
             }
+            R.id.actioncamera ->{
+                tirarFoto()
+                return true
+            }
         }
         return super.onOptionsItemSelected(item)
     }
+
 
     private fun buscarReceitas() {
         val intent = Intent(baseContext, ListReceitasActivity::class.java)
@@ -74,7 +87,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun fromfile() {
-        var json: String
+        val json: String
         try {
             val inputStream = getAssets().open("ingredientes.json")
             val size = inputStream.available()
@@ -108,5 +121,53 @@ class MainActivity : AppCompatActivity() {
         cardView.layoutManager = LinearLayoutManager(baseContext)
         cardView.adapter = MinhasCategoriasDeIngredientesAdapter(itemList, baseContext)
     }
+
+    fun tirarFoto() {
+
+
+        askPermission(Manifest.permission.CAMERA) {
+            //all permissions already granted or just granted
+            takePictureIntent()
+            // your action
+        }.onDeclined { e ->
+            //the list of denied permissions
+            //e.denied.forEach{
+
+            //}
+            /*
+            AlertDialog.Builder(this@MainActivityKotlinCoroutine)
+                    .setMessage("Please accept our permissions")
+                    .setPositiveButton("yes", (dialog, which) -> { result.askAgain(); })
+                    .setNegativeButton("no", (dialog, which) -> { dialog.dismiss(); })
+                    .show();
+            */
+
+            //the list of forever denied permissions, user has check 'never ask again'
+            //e.foreverDenied.forEach{
+
+            //}
+            // you need to open setting manually if you really need it
+            //e.goToSettings();
+        }
+
+    }
+
+
+    private fun takePictureIntent() {
+        val takePictureIntent = Intent(MediaStore.ACTION_IMAGE_CAPTURE)
+        if (takePictureIntent.resolveActivity(packageManager) != null) {
+            startActivityForResult(takePictureIntent, REQUEST_IMAGE_CAPTURE)
+        }
+    }
+
+    override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent) {
+        if (requestCode == REQUEST_IMAGE_CAPTURE && resultCode == Activity.RESULT_OK) {
+            val extras = data.extras
+            val imageBitmap = extras!!.get("data") as Bitmap
+
+             //.setImageBitmap(imageBitmap)
+        }
+    }
+
 
 }

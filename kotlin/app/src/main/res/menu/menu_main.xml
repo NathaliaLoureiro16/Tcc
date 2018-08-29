@@ -1,10 +1,18 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.nathalia.myapplication.MainActivity">
+    tools:context="com.example.nathalia.myapplication.PrincipalActivity">
     <item
         android:id="@+id/actionreceitas"
-        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_menu_search"
+        android:orderInCategory="101"
         android:title="buscar"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/actioncamera"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:orderInCategory="99"
+        android:title="camera"
         app:showAsAction="always" />
 </menu>

@@ -1,5 +1,6 @@
  [
         {
+            "imagemReceita": "https://image.ibb.co/iuYZNp/bolobanana.jpg",
             "titulo": "Bolo de banana",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -33,6 +34,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/hvEr2p/bolochoc.jpg",
             "titulo": "Bolo de chocolate",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -82,14 +84,15 @@
             ]
         },
         {
-            "titulo": "Bolo de milho / Fubá",
+            "imagemReceita": "https://image.ibb.co/cmufv9/bolomilho.jpg",
+            "titulo": "Bolo de milho",
             "descricaoIngredientes": [
                 "Ingredientes",
                 "",
                 "2 ovos",
                 "2 xícaras (chá) de leite",
                 "2 xícaras (chá) de açúcar",
-                "2 xícaras (chá) de fubá/farinha de milho",
+                "2 xícaras (chá) de farinha de milho",
                 "2 xícaras (chá) de farinha de trigo",
                 "1 xícara (chá) de óleo",
                 "2 colheres (chá) de fermento em pó"
@@ -101,14 +104,14 @@
                 "farinha de milho",
                 "farinha de trigo",
                 "óleo",
-                " fermento em pó"
+                "fermento em pó"
 
             ],
             "modoPreparo": [
                 "Modo de preparo",
                 "",
                 "1 - Bata no liquidificador em velocidade alta, os ovos, o óleo, o leite e o açúcar.",
-                "2 - Quando estiver homogêneo, vá acrescentando a farinha de trigo o fubá / farinha de milho.",
+                "2 - Quando estiver homogêneo, vá acrescentando a farinha de trigo e a farinha de milho.",
                 "3 - A massa vai começar a ficar grossa, então ajude mexendo com uma colher.",
                 "4 - Quando estiver tudo bem misturado acrescente o fermento e misture bem.",
                 "5 - Unte uma assadeira grande de buraco no meio com óleo e açúcar.",
@@ -116,6 +119,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/bFs5TU/bolocenoura.jpg",
             "titulo": "Bolo de cenoura",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -159,6 +163,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/ck3jNp/bololaranja.jpg",
             "titulo": "Bolo de Laranja",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -205,6 +210,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/i03jNp/boloform.jpg",
             "titulo": "Bolo formigueiro",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -249,6 +255,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/k1LW2p/jp.jpg",
             "titulo": "Brownie do Jp",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -284,6 +291,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/ne6ohp/bolocanecasimples.jpg",
             "titulo": "Bolo de caneca simples",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -311,6 +319,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/m5rh8U/tortasalgada.jpg",
             "titulo": "Torta salgada de caneca",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -353,6 +362,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/gmTOF9/baguette.jpg",
             "titulo": "Baguete com carne moída",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -392,6 +402,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/hcijNp/boloingles.jpg",
             "titulo": "Bolo Inglês",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -436,18 +447,19 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/en2B2p/empanadas.jpg",
             "titulo": "Empanadas Uruguaias",
             "descricaoIngredientes": [
                 "Ingredientes",
                 "",
-                "300g de carne moída (previamente refogada)",
-                "2 colheres (sopa) de azeitona picadas",
-                "2 colheres (sopa) de uva passa preta/branca",
-                "2 ovos cozidos picados",
-                "2 colheres (sopa) de tempero verde picado",
-                "Sal a gosto",
-                "Pimenta a gosto",
-                "1 cebola média picada",
+                "3 xícaras (chá) de farinha de trigo",
+                "pitada de sal",
+                "170g de manteiga sem sal",
+                "1 ovo",
+                "1/4 xícara (chá) de leite",
+                "1 dose de cachaça",
+                "gema para pincelar as empanadas",
+                "clara para pincelar as empanadas antes de fechá-las",
                 "",
                 "Ingredientes Recheio",
                 "",
@@ -461,12 +473,16 @@
                 "1 cebola média picada"
             ],
             "ingredientesBase": [
+                "farinha de trigo",
+                "sal",
+                "manteiga",
+                "ovo",
+                "leite",
+                "cachaça",
                 "carne moída",
                 "azeitona",
                 "uva passa",
-                "ovo",
                 "tempero verde",
-                "sal",
                 "cebola"
             ],
             "modoPreparo": [
@@ -485,6 +501,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/hXoJhp/quindim.jpg",
             "titulo": "Quindim do Anonymus",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -514,6 +531,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/cG4r2p/mingau.jpg",
             "titulo": "Mingau de Aveia",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -536,6 +554,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/g1Xdhp/paoqueijo.jpg",
             "titulo": "Pão de queijo (sem fermento)",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -558,6 +577,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/btoUoU/mousse.jpg",
             "titulo": "Mousse de limão",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -579,6 +599,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/kB812p/biscoitobanana.jpg",
             "titulo": "Biscoito de banana com aveia",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -598,6 +619,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/kcMh8U/brigadeirocolher.jpg",
             "titulo": "Brigadeiro de Colher",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -621,6 +643,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/fGOqv9/arrozforno.jpg",
             "titulo": "Arroz de forno",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -656,6 +679,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/ddf9oU/massaespecial.jpg",
             "titulo": "Massa caseira especial",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -693,6 +717,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/ffMFTU/massabolonhesa.jpg",
             "titulo": "Espaguete à bolonhesa",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -731,6 +756,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/kBb4Np/massaaromatica.jpg",
             "titulo": "Macarrão Aromático",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -766,6 +792,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/dhkW2p/sucomelancia.jpg",
             "titulo": "Suco de melancia com maracujá",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -785,6 +812,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/c8V9oU/sanduicheatum.jpg",
             "titulo": "Sanduíche de atum com legumes",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -822,6 +850,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/ci2N8U/pure.jpg",
             "titulo": "Purê de batata com azeite e cebolinha",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -851,6 +880,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/dJivTU/estrogonofe.jpg",
             "titulo": "Estrogonofe de carne",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -893,6 +923,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/mghdhp/lasanhaqueijo.jpg",
             "titulo": "Lasanha aos quatro queijos",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -927,6 +958,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/i7uKoU/batatarecheada.jpg",
             "titulo": "Batata recheada com frango",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -961,6 +993,7 @@
             ]
         },
         {
+            "imagemReceita": "https://image.ibb.co/b9rSa9/couveflor.jpg",
             "titulo": "Couve-flor gratinada com molho branco e queijo",
             "descricaoIngredientes": [
                 "Ingredientes",
@@ -998,8 +1031,9 @@
               ]
             },
             {
-            "titulo": "Ovos mexidos com Atum",
-            "descricaoIngredientes": [
+                "imagemReceita": "https://image.ibb.co/fxd7a9/ovomexido.jpg",
+                "titulo": "Ovos mexidos com Atum",
+                "descricaoIngredientes": [
                 "Ingredientes",
                 "",
                 "3 ovos ",
@@ -1029,8 +1063,9 @@
                 ]
             },
             {
-            "titulo": "Frango frito",
-            "descricaoIngredientes": [
+                "imagemReceita": "https://image.ibb.co/fbiUoU/frangofrito.jpg",
+                "titulo": "Frango frito",
+                "descricaoIngredientes": [
                 "Ingredientes",
                 "",
                 "Frango",
@@ -1052,8 +1087,9 @@
               ]
             },
             {
-            "titulo": "Pizza de liquidificador",
-            "descricaoIngredientes": [
+                "imagemReceita": "https://image.ibb.co/g4qW2p/pizzaliqui.jpg",
+                "titulo": "Pizza de liquidificador",
+                "descricaoIngredientes": [
                 "Ingredientes",
                 "",
                 "1 xícara (chá) de leite",
@@ -1074,15 +1110,14 @@
             ],
             "ingredientesBase": [
                 "leite",
+                "ovo",
                 "sal",
-                "tomate",
                 "açúcar",
                 "margarina",
                 "farinha de trigo",
                 "fermento em pó",
                 "molho de tomate",
-                "queijo mussarela",
-                "tomate"
+                "queijo mussarela"
             ],
             "modoPreparo": [
                 "Modo de preparo",
@@ -1090,13 +1125,14 @@
                 "1 - No liquidificador bata o leite, o ovo, o sal, o açúcar, a margarina, a farinha de trigo e o fermento em pó até que tudo esteja incorporado.",
                 "2 - Despeje a massa em uma assadeira para pizza untada com margarina e leve ao forno preaquecido por 20 minutos.",
                 "3 - Retire do forno e despeje o molho de tomate.",
-                "4 -  Cubra a massa com mussarela ralada, tomate e orégano a gosto.",
+                "4 - Cubra a massa com mussarela ralada, tomate e orégano a gosto.",
                 "5 - Leve novamente ao forno até derreter a mussarela."
               ]
             },
             {
-            "titulo": "Geleia de laranja",
-            "descricaoIngredientes": [
+                "imagemReceita": "https://image.ibb.co/dgkLv9/geleialaranja.jpg",
+                "titulo": "Geleia de laranja",
+                "descricaoIngredientes": [
                 "Ingredientes",
                 "",
                 "12 laranjas",
@@ -1119,8 +1155,9 @@
               ]
             },
             {
-            "titulo": "Paçoquinha de colher",
-            "descricaoIngredientes": [
+                "imagemReceita": "https://image.ibb.co/iKojNp/pacoca.jpg",
+                "titulo": "Paçoquinha de colher",
+                "descricaoIngredientes": [
                 "Ingredientes",
                 "",
                 "2 latas de leite condensado",
@@ -1145,8 +1182,9 @@
               ]
             },
             {
-            "titulo": "Bolinho de maça e nozes",
-            "descricaoIngredientes": [
+                "imagemReceita": "https://image.ibb.co/eYAENp/bolinhomaca.jpg",
+                "titulo": "Bolinho de maça e nozes",
+                "descricaoIngredientes": [
                 "Ingredientes",
                 "",
                 "250 g de manteiga",
@@ -1174,14 +1212,15 @@
                 "1 - Na batedeira, bata a manteiga com o açúcar até obter um creme.",
                 "2 - Junte os ovos, um a um, sempre batendo. Acrescente as nozes, o fermento e a canela em pó.",
                 "3 - Tire da batedeira, junte a farinha peneirada e mexa delicadamente, agregando a farinha de baixo para cima.",
-                "4 -  Unte com manteiga e polvilhe com farinha pequenas formas individuais. ",
+                "4 - Unte com manteiga e polvilhe com farinha pequenas formas individuais. ",
                 "5 - Corte as maçãs ao meio e depois em tiras finas.",
-                "6 -  Despeje a massa nas formas e depois disponha as tiras de maçã. Leve para assar em forno preaquecido a 180º C até ficar dourada."
+                "6 - Despeje a massa nas formas e depois disponha as tiras de maçã. Leve para assar em forno preaquecido a 180º C até ficar dourada."
               ]
             },
             {
-            "titulo": "Cueca virada",
-            "descricaoIngredientes": [
+                "imagemReceita": "https://image.ibb.co/n9M4Np/cuecavirada.png",
+                "titulo": "Cueca virada",
+                "descricaoIngredientes": [
                 "Ingredientes",
                 "",
                 "3 xícaras de chá de farinha de trigo",
@@ -1220,8 +1259,9 @@
               ]
             },
             {
-            "titulo": "Omelete rápido",
-            "descricaoIngredientes": [
+                "imagemReceita": "https://image.ibb.co/gJQW2p/omelete.jpg",
+                "titulo": "Omelete rápido",
+                "descricaoIngredientes": [
                 "Ingredientes",
                 "",
                 "2 ovos",
@@ -1248,8 +1288,9 @@
               ]
             },
             {
-            "titulo": "Bolinho de arroz",
-            "descricaoIngredientes": [
+                "imagemReceita": "https://image.ibb.co/kCuKoU/bolinhoarroz.jpg",
+                "titulo": "Bolinho de arroz",
+                "descricaoIngredientes": [
                 "Ingredientes",
                 "",
                 "2 xícaras (chá) de arroz cozido",
@@ -1280,8 +1321,9 @@
               ]
             },
             {
-            "titulo": "Yakissoba",
-            "descricaoIngredientes": [
+                "imagemReceita": "https://image.ibb.co/efP28U/yakissoba.jpg",
+                "titulo": "Yakissoba",
+                "descricaoIngredientes": [
                 "Ingredientes",
                 "",
                 "300 g de espaguete",
@@ -1321,17 +1363,17 @@
               ]
             },
             {
-            "titulo": "Sanduíche de pepino",
-            "descricaoIngredientes": [
+                "imagemReceita": "https://image.ibb.co/eLWSa9/sanduichepepino.jpg",
+                "titulo": "Sanduíche de pepino",
+                "descricaoIngredientes": [
                 "Ingredientes",
                 "",
-                "10 fatias de pão de forma sem casca",
-                "1 xícara (chá) de maionese",
-                "2 unidades de pepino ralado",
-                "1/2 colher (chá) de hortelã picada",
-                "2 colheres (sopa) de suco de limão",
+                "Pão de forma sem casca",
+                "Maionese",
+                "Pepino ralado",
+                "Hortelã picada",
+                "1 colher de suco de limão",
                 "Sal e pimenta a gosto"
-            
             ],
             "ingredientesBase": [
                 "pão de forma",
@@ -1339,21 +1381,20 @@
                 "pepino",
                 "hortelã",
                 "suco de limão",
-                "Sal"
+                "sal"
             ],
             "modoPreparo": [
                 "Modo de preparo",
                 "",
-                "1 - Corte as fatias de pão ao meio.",
-                "2 - Em uma tigela, misture a maionese com o pepino ralado, a hortelã e o suco de limão.",
-                "3 - Tempere com pimenta e sal.",         
-                "4 - Recheie as metades das fatias de pão com a mistura de pepino e monte os sanduíches."                
-               
-            ]
+                "1 - Em uma tigela, misture a maionese com o pepino ralado, a hortelã e o suco de limão.",
+                "2 - Tempere com pimenta e sal.",         
+                "3 - Recheie as metades das fatias de pão com a mistura de pepino e monte os sanduíches."                
+                ]
             },
             {
-            "titulo": "Torta de Sardinha",
-            "descricaoIngredientes": [
+                "imagemReceita": "https://image.ibb.co/bxpDF9/tortasardinha.jpg",
+                "titulo": "Torta de Sardinha",
+                "descricaoIngredientes": [
                 "Ingredientes",
                 "",
                 "2 colheres de sopa de azeite de oliva",
@@ -1376,7 +1417,7 @@
                 "oliva",
                 "cebola",
                 "molho de tomate",
-                "Sal",
+                "sal",
                 "salsinha",
                 "requeijão",
                 "queijo mussarela"
@@ -1393,23 +1434,24 @@
               ]
          },
          {
-         "titulo": "Torta Cachorro-Quente na Travessa",
-         "descricaoIngredientes": [
+            "imagemReceita": "https://image.ibb.co/cLrh8U/cachorroquente.png",
+            "titulo": "Cachorro-Quente na Travessa",
+            "descricaoIngredientes": [
              "Ingredientes",
              "",
              "Azeite para refogar",
-             " 1 cebola cortada em cubinhos",
-             " 2 dentes de alho picados",          
-             " 2 tomates picados",         
-             " 1 xícara de molho de tomate",           
-             " Sal a gosto",   
+             "1 cebola cortada em cubinhos",
+             "2 dentes de alho picados",          
+             "2 tomates picados",         
+             "1 xícara de molho de tomate",           
+             "Sal a gosto",   
              "1 pacote de salsicha" ,               
-             " 1/2 maço de salsinha picada",           
-             " 3 ovos",           
-             " 6 colheres de sopa de óleo",           
-             " 1 1/2 xícara de leite",          
+             "1/2 maço de salsinha picada",           
+             "3 ovos",           
+             "6 colheres de sopa de óleo",           
+             "1 1/2 xícara de leite",          
              "1 caixinha de creme de leite",         
-             " 1 3/4 de xícara de farinha de trigo",         
+             "1 3/4 de xícara de farinha de trigo",         
              "1 colher de sopa de fermento em pó",          
              "1 1/2 xícara de queijo mussarela ralado"
          
