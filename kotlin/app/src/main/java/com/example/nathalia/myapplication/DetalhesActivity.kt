@@ -17,6 +17,7 @@ class DetalhesActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_detalhes)
         setSupportActionBar(toolbar)
+
         val receita = getReceita()
         Glide.with(baseContext).load(receita.imagemReceita).into(imagemReceita)
 
