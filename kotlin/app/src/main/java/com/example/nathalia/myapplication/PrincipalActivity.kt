@@ -14,11 +14,15 @@ import com.android.volley.Response
 import com.android.volley.toolbox.Volley
 import android.support.design.widget.Snackbar
 import android.view.View
+import android.view.Window
 import com.google.gson.Gson
 import com.github.florent37.runtimepermission.kotlin.askPermission
 import kotlinx.android.synthetic.main.activity_principal.*
 import kotlinx.android.synthetic.main.content_principal.*
 import java.io.IOException
+import com.example.nathalia.myapplication.R.string.action_settings
+
+
 
 
 class PrincipalActivity : AppCompatActivity() {
@@ -39,17 +43,22 @@ class PrincipalActivity : AppCompatActivity() {
     }
 
     override fun onOptionsItemSelected(item: MenuItem?): Boolean {
-        when (item!!.itemId) {
-            R.id.actionreceitas -> {
-                buscarReceitas()
-                return true
-            }
-            R.id.actioncamera ->{
+        return when (item!!.itemId) {
+            R.id.action_camera -> {
                 tirarFoto()
-                return true
+                true
             }
+            R.id.action_receitas -> {
+                val ingredientes = (recycler_cardview.adapter as MinhasCategoriasDeIngredientesAdapter).getlistaingredientes()
+                if (ingredientes.isEmpty()) {
+                    Snackbar.make(currentFocus!!, "SELECIONE OS INGREDIENTES PRIMEIRO :)", Snackbar.LENGTH_LONG).show()
+                } else {
+                    buscarReceitas()
+                }
+                true
+            }
+            else -> super.onOptionsItemSelected(item)
         }
-        return super.onOptionsItemSelected(item)
     }
 
 
@@ -165,7 +174,6 @@ class PrincipalActivity : AppCompatActivity() {
             val extras = data.extras
             val imageBitmap = extras!!.get("data") as Bitmap
 
-             //.setImageBitmap(imageBitmap)
         }
     }
 

@@ -35,10 +35,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:cropToPadding="false"
+                android:scaleType="fitXY"
+                app:layout_collapseParallaxMultiplier="0.2"
                 app:layout_constraintDimensionRatio="w,1:1"
-                android:scaleType="centerCrop"
-                app:layout_collapseParallaxMultiplier="1.0"
-                app:srcCompat="@drawable/ic_launcher_foreground"
                 tools:ignore="VectorDrawableCompat" />
 
         </android.support.design.widget.CollapsingToolbarLayout>
