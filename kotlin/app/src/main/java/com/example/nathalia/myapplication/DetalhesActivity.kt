@@ -19,6 +19,7 @@ class DetalhesActivity : AppCompatActivity() {
         setSupportActionBar(toolbar)
 
         val receita = getReceita()
+        title = receita.titulo
         Glide.with(baseContext).load(receita.imagemReceita).into(imagemReceita)
 
         titulo.text = receita.titulo

@@ -8,12 +8,4 @@
         android:orderInCategory="101"
         android:title="buscar"
         app:showAsAction="always" />
-
-    <item
-        android:id="@+id/action_camera"
-        android:checkable="false"
-        android:icon="@drawable/camera"
-        android:orderInCategory="99"
-        android:title="camera"
-        app:showAsAction="always" />
 </menu>

@@ -29,7 +29,6 @@ class PrincipalActivity : AppCompatActivity() {
 
     private var categorias: Array<MinhasCategoriasDeIngredientes>? = null
 
-    val REQUEST_IMAGE_CAPTURE = 1
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -44,10 +43,6 @@ class PrincipalActivity : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem?): Boolean {
         return when (item!!.itemId) {
-            R.id.action_camera -> {
-                tirarFoto()
-                true
-            }
             R.id.action_receitas -> {
                 val ingredientes = (recycler_cardview.adapter as MinhasCategoriasDeIngredientesAdapter).getlistaingredientes()
                 if (ingredientes.isEmpty()) {
@@ -64,7 +59,7 @@ class PrincipalActivity : AppCompatActivity() {
 
     private fun buscarReceitas() {
         val intent = Intent(baseContext, ListReceitasActivity::class.java)
-        var url = "http://api-receitas-com.umbler.net/api/receitas?"
+        var url = "http://kichef-org.umbler.net/api/receitas?"
         val ingredientes = (recycler_cardview.adapter as MinhasCategoriasDeIngredientesAdapter).getlistaingredientes()
         ingredientes.forEach {
             url += "ingredientesBase=${it.toLowerCase()}&"
@@ -80,7 +75,7 @@ class PrincipalActivity : AppCompatActivity() {
 
 
     fun lerCategorias() {
-        val url = "http://api-receitas-com.umbler.net/api/categorias"
+        val url = "http://kichef-org.umbler.net/api/categorias"
 
         val jsonObjectRequest = GsonRequest(url, Array<MinhasCategoriasDeIngredientes>::class.java, null,
                 Response.Listener { response ->
@@ -130,52 +125,5 @@ class PrincipalActivity : AppCompatActivity() {
         cardView.layoutManager = LinearLayoutManager(baseContext)
         cardView.adapter = MinhasCategoriasDeIngredientesAdapter(itemList, baseContext)
     }
-
-    fun tirarFoto() {
-
-
-        askPermission(Manifest.permission.CAMERA) {
-            //all permissions already granted or just granted
-            takePictureIntent()
-            // your action
-        }.onDeclined { e ->
-            //the list of denied permissions
-            //e.denied.forEach{
-
-            //}
-            /*
-            AlertDialog.Builder(this@MainActivityKotlinCoroutine)
-                    .setMessage("Please accept our permissions")
-                    .setPositiveButton("yes", (dialog, which) -> { result.askAgain(); })
-                    .setNegativeButton("no", (dialog, which) -> { dialog.dismiss(); })
-                    .show();
-            */
-
-            //the list of forever denied permissions, user has check 'never ask again'
-            //e.foreverDenied.forEach{
-
-            //}
-            // you need to open setting manually if you really need it
-            //e.goToSettings();
-        }
-
-    }
-
-
-    private fun takePictureIntent() {
-        val takePictureIntent = Intent(MediaStore.ACTION_IMAGE_CAPTURE)
-        if (takePictureIntent.resolveActivity(packageManager) != null) {
-            startActivityForResult(takePictureIntent, REQUEST_IMAGE_CAPTURE)
-        }
-    }
-
-    override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent) {
-        if (requestCode == REQUEST_IMAGE_CAPTURE && resultCode == Activity.RESULT_OK) {
-            val extras = data.extras
-            val imageBitmap = extras!!.get("data") as Bitmap
-
-        }
-    }
-
 
 }
